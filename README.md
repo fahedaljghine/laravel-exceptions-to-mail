@@ -1,4 +1,4 @@
-# laravel Exceptions to Mail
+# Laravel Exceptions to Mail
 
 ![Laravel 5.5](https://img.shields.io/badge/Laravel-5.5-f4645f.svg)
 ![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)
@@ -25,10 +25,10 @@ This is the contents of the published config file:
 // config/errors-mail.php
 
 return [
-	/*
-     * Add email address you want exceptions to be sent
-	 * Please don't set my email address !!!
-     */
+    /*
+    * Add email address you want exceptions to be sent
+    * Please don't set my email address !!!
+    */
     'mails' => [
         //'fahedaljghine2014@gmail.com',
     ],
