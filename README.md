@@ -1,7 +1,7 @@
 # laravel Exceptions to Mail
 
 ![Laravel 5.5](https://img.shields.io/badge/Laravel-5.5-f4645f.svg)
-![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE.md)
+![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)
 
 This package will allow you to specify mail addresses to send them all the exceptions of your application.
 
@@ -37,7 +37,7 @@ return [
 
 ## To Do
 
-1- add exceptions profile to allow sending the emails only for group of exceptions
+1- add exceptions profile to allow sending the emails only for group of exceptions.
 
 
 ## License
