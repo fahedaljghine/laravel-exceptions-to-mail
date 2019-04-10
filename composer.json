@@ -1,5 +1,5 @@
 {
-  "name": "fahedaljghine/errors-mail",
+  "name": "fahedaljghine/laravel-exceptions-to-mail",
   "description": "Laravel helper to send mail when exception occurred",
   "license": "MIT",
   "homepage": "https://github.com/fahedaljghine/errors-mail",
