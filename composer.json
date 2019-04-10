@@ -1,0 +1,44 @@
+{
+  "name": "fahedaljghine/errors-mail",
+  "description": "Laravel helper to send mail when exception occurred",
+  "type": "library",
+  "keywords": [
+    "laravel",
+    "laravel 5",
+    "options",
+    "i18n",
+    "javascript",
+    "js",
+    "settings"
+  ],
+  "homepage": "https://github.com/fahedaljghine/errors-mail",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Fahed Aljghine",
+      "email": "f.aljghine@syriaturst.sy",
+      "homepage": "https://github.com/fahedaljghine",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php": ">=5.4.0",
+    "illuminate/config": ">=4.2",
+    "illuminate/console": ">=4.2",
+    "illuminate/filesystem": ">=4.2",
+    "tedivm/jshrink": "1.0.*"
+  },
+  "minimum-stability": "dev",
+  "extra": {
+    "laravel": {
+      "providers": [
+        "Fahedaljghine\\ErrorsMail\\ErrorsMailServiceProvider"
+      ]
+    }
+  },
+  "autoload": {
+    "psr-4": {
+      "Fahedaljghine\\ErrorsMail\\": "src/"
+    }
+  }
+}
