@@ -16,7 +16,7 @@ The package will automatically register itself.
 
 You can publish the config file with:
 ```bash
-php artisan vendor:publish --provider="fahedaljghine\ErrorsMail\ErrorsMailServiceProvider"
+php artisan vendor:publish --provider="Fahedaljghine\ErrorsMail\ErrorsMailServiceProvider"
 ```
 
 This is the contents of the published config file:
